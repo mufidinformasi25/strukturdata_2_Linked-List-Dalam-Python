@@ -1,0 +1,1 @@
+# strukturdata_2_Linked-List-Dalam-Python
